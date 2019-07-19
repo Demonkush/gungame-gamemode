@@ -1,4 +1,4 @@
-* **ALL CREDITS TO DEMONKUSH**
+* **ALL CREDITS TO [DEMONKUSH](https://github.com/Demonkush)**
 
 
 
