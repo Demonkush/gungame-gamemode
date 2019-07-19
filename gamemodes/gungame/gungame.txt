@@ -1,0 +1,6 @@
+"gungame"
+{
+	"base"		"base"
+	"title"		"Gun Game"
+	"menusystem"	"1"
+}
